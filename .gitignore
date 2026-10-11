@@ -2,3 +2,6 @@
 Legal review/
 terms.html
 privacy.html
+
+# Local Netlify Dev state (created by `netlify dev`)
+.netlify/
