@@ -18,6 +18,10 @@
   X-Robots-Tag: noindex
 /yt-docket
   X-Robots-Tag: noindex
+/fb
+  X-Robots-Tag: noindex
+/fb-docket
+  X-Robots-Tag: noindex
 /kit
   X-Robots-Tag: noindex
 /kit-docket
@@ -33,6 +37,8 @@
 /desk-x
   X-Robots-Tag: noindex
 /desk-yt
+  X-Robots-Tag: noindex
+/desk-fb
   X-Robots-Tag: noindex
 /desk-kit
   X-Robots-Tag: noindex
